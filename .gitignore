@@ -1,0 +1,12 @@
+models/
+pixel2style2pixel/
+results/
+checkpoints/
+*.pkl
+*.pth
+*.pt
+__pycache__/
+*.pyc
+preprocessed_cache/
+venv/
+deep_env/
